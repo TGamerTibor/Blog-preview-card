@@ -23,12 +23,15 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop:
-![](/assets/images/readme-images/desktop.png)
+<br />
 
-Mobile:
-![](/assets/images/readme-images/mobile.png)
+### Demo Desktop Screeshot:
 
+![WeatherIO Desktop Demo](/assets/images/readme-images/desktop.png "Desktop Demo")
+
+### Demo Mobile Screeshot:
+
+![WeatherIO Mobile Demo](/assets/images/readme-images/mobile.png "mobile Demo") 
 
 ### Links
 
