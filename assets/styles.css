@@ -70,6 +70,11 @@ img {
     font-size: 1.5rem;
     font-weight: 800;
 }
+h1:hover{
+    color: var(--Yellow);
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
 
 .profile {
     display: flex;
